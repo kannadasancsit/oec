@@ -1,0 +1,15 @@
+D:\EX\oec-inte\oec-interview\Interview\RL.Data\bin\Debug\net6.0\ProcedureSeedData.csv
+D:\EX\oec-inte\oec-interview\Interview\RL.Data\bin\Debug\net6.0\RL.Data.deps.json
+D:\EX\oec-inte\oec-interview\Interview\RL.Data\bin\Debug\net6.0\RL.Data.runtimeconfig.json
+D:\EX\oec-inte\oec-interview\Interview\RL.Data\bin\Debug\net6.0\RL.Data.dll
+D:\EX\oec-inte\oec-interview\Interview\RL.Data\bin\Debug\net6.0\RL.Data.pdb
+D:\EX\oec-inte\oec-interview\Interview\RL.Data\obj\Debug\net6.0\RL.Data.csproj.AssemblyReference.cache
+D:\EX\oec-inte\oec-interview\Interview\RL.Data\obj\Debug\net6.0\RL.Data.GeneratedMSBuildEditorConfig.editorconfig
+D:\EX\oec-inte\oec-interview\Interview\RL.Data\obj\Debug\net6.0\RL.Data.AssemblyInfoInputs.cache
+D:\EX\oec-inte\oec-interview\Interview\RL.Data\obj\Debug\net6.0\RL.Data.AssemblyInfo.cs
+D:\EX\oec-inte\oec-interview\Interview\RL.Data\obj\Debug\net6.0\RL.Data.csproj.CoreCompileInputs.cache
+D:\EX\oec-inte\oec-interview\Interview\RL.Data\obj\Debug\net6.0\RL.Data.dll
+D:\EX\oec-inte\oec-interview\Interview\RL.Data\obj\Debug\net6.0\refint\RL.Data.dll
+D:\EX\oec-inte\oec-interview\Interview\RL.Data\obj\Debug\net6.0\RL.Data.pdb
+D:\EX\oec-inte\oec-interview\Interview\RL.Data\obj\Debug\net6.0\RL.Data.genruntimeconfig.cache
+D:\EX\oec-inte\oec-interview\Interview\RL.Data\obj\Debug\net6.0\ref\RL.Data.dll
